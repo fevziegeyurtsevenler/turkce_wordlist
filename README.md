@@ -1,2 +1,2 @@
 # turkce_wordlist
-gobuster ile kullanabileceğiniz türkçe-wordlist (eğitim amaçlıdır)
+gobuster ile kullanabileceğiniz türkçe wordlist (eğitim amaçlıdır)
