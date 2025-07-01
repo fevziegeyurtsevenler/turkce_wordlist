@@ -1,2 +1,2 @@
 # turkce_wordlist
-gobuster ile kullanabileceğiniz türkçe wordlist (eğitim amaçlıdır)
+Bu proje, pentest ve sızma testlerinde kullanılan Gobuster, Dirbuster gibi araçlarla uyumlu, özel olarak hazırlanmış kapsamlı bir Türkçe kelime listesi sunmaktadır. Türkiye’deki hedef sistemlere yönelik brute-force ve dizin tarama işlemlerinde daha yüksek başarı oranı elde etmek için, günlük hayatta ve teknik ortamlarda yaygın kullanılan Türkçe kelimeler titizlikle derlenmiştir. Açık kaynak olarak paylaşılan bu wordlist, özellikle Türkçe içerikli web uygulamalarının güvenlik analizlerinde etkin bir kaynak olarak kullanılabilir.
